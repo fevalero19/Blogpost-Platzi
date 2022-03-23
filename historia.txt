@@ -1,5 +1,3 @@
-esta es la práctica de la primera clase
+esta es
 
-Y este es el nuevo escrito que le agrego
-
-Hoy hablaremos de vida y obra maestra
+una reescritura de la vida de Felipe Valero usando el checkout.
